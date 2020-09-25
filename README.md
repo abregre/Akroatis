@@ -1,7 +1,7 @@
 <h1># Akroatis</h1>
 <h2>Discord Music Bot</h2>
 
-Discord youtube play bot
+Discord youtube play bot with queue functionality
 
 Commands
 ----------------
