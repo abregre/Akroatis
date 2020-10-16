@@ -5,8 +5,7 @@
 
 Discord bot to play youtube music videos on discord voice channels<br>
 
-<strong>Commands</strong>
-<strong>Vision</strong><br>  
+<strong>Commands</strong><br>  
 <ul>
   <li>?play URL</li>
   <li>?skip</li>
